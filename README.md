@@ -4,7 +4,7 @@ Hello, my name is Pacharapol Oumolarn
 Data Engineer & Data Analyst
 -----------------------
 
-I have been working in the field of data analytic since 2014 as data engineer, project implementer and data analyst. Currently, I am working as business analyst in petroleum industry but I also interested on sales & marketing analytics, social network analysis and data science. Moreover, I have an intensive passion in automotive marketing and its technology because I got an official certificate on automotive technician training from public technical institute in 2016. This is the reason why I have several repository about vehicle programming. Most of my works are python, C++ and some R too. I have a pascal coding project but I cannot make it to public because legal issue. Thank you for interest my works, feel free to reach out to me!
+I have been working in the field of data analytic since 2014 as data engineer, project implementer and data analyst. Currently, I am working as business analyst in petroleum industry but I also interested on sales & marketing analytics, social network analysis and data science. Moreover, I have an intensive passion in automotive marketing and its technology because I got an official certificate on automotive technician training from public technical institute in 2016. This is the reason why I have several repositories about vehicle control programming. Most of my works are python, C++ and some R too. I have a pascal coding project but I cannot make it to public because legal issue. Thank you for interest my works, feel free to reach out to me!
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [pacharapol4066@gmail.com](mailto:pacharapol4066@gmail.com)
